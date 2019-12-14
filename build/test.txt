@@ -1,0 +1,1 @@
+Use gitmoji to sort out and identify your commits more easily.
